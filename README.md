@@ -21,7 +21,9 @@ This project was created to showcase front-end development skills and build a re
 
 ## Screenshots
 
-C:\Users\12107\OneDrive\Desktop\prime solution\prime solution help\logo.png
+<p align="center">
+  <img src="prime solution help/logo.png" width="200" />
+</p>
 
 
 
