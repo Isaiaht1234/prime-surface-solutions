@@ -1,4 +1,3 @@
-
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   anchor.addEventListener('click', function (e) {
     const target = document.querySelector(this.getAttribute('href'));
@@ -93,4 +92,3 @@ window.addEventListener('load', () => {
       el.classList.add('show');
     }
   });
-});
