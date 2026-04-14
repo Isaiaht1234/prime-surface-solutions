@@ -1,6 +1,6 @@
 # Prime Surface Solutions Website
 
-A modern, responsive website built for a pressure washing business in San Antonio, TX.
+A professional business website for a pressure washing company, designed to showcase services and generate customer leads through a clean, modern interface.
 
 ## Features
 
